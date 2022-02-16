@@ -1,0 +1,42 @@
+.fruits{
+    display: flex;
+    align-items: center;
+    margin: 48px 24px 48px 0px;
+    padding-left: 16px;
+}
+
+.fruit{
+    position: relative;
+    width: calc(95% * 4/9);
+    height: 250px;
+}
+
+.fruit img{
+    width: 100%;
+    height: 100%;
+}
+
+.fruit h1{
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+.fruit h1, h6{
+    color: #ffffff;
+}
+
+
+
+.fruit h6{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    top: 150px;
+    left: 48px;
+}
+.offers{
+    margin-left: 16px;
+    margin-bottom: 24px;
+    padding: 24px;
+    width: 93%;
+}

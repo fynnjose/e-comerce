@@ -1,0 +1,43 @@
+.discoverybox{
+    background-color: #ffffff;
+    margin-top: 24px;
+    padding: 40px;
+}
+.discovery{
+    display: flex;
+    justify-content:space-between;
+    width: 700px;
+}
+
+.about p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(0, 0, 0, 0.541);
+}
+
+.abouttext, .aboutlinks{
+    margin-bottom: 16px;
+}
+.aboutlinks{
+    
+    padding: 16px 0px;
+}
+
+.aboutlinks span{
+    border: 1px solid rgba(23, 168, 23, 0.712);
+    background-color: rgba(23, 168, 23, 0.712);
+    padding:8px 4px;
+    margin-right: 32px;
+
+}
+
+.aboutlinks span a{
+    font-size: small;
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 24px;
+}
+
+.foodinfo img{
+    width: 200px;
+    margin-top: 24px;
+}

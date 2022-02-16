@@ -1,0 +1,15 @@
+.popular_product{
+    margin: 24px 0px;
+    
+}
+
+.popular_product img{
+    width: 24px;
+    height: 24px;
+
+    padding-right: 5px;
+}
+
+.popular_product ul{
+   list-style: none;
+}
